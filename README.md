@@ -69,7 +69,7 @@ Most of what I build is designed to be **used by a community**: challenge binari
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BetterMint&show_icons=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=BetterMint&show_icons=true&hide_border=true&theme=transparent"
     alt="BetterMint GitHub Stats"
     height="160"
   />
@@ -85,7 +85,7 @@ Most of what I build is designed to be **used by a community**: challenge binari
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BetterMint&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BetterMint&layout=compact&hide_border=true&theme=transparent"
     alt="BetterMint Top Languages"
     height="160"
   />
