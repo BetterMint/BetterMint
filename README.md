@@ -1,7 +1,3 @@
-<!--
-  Profile README for BetterMint
--->
-
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1100190571588489346/1442302994044686477/UTCCgXB.gif?ex=6936bd16&is=69356b96&hm=7aa32a65a68d2b7e0117969d45f5da7fc1faaad29e909d55968bd743a308637c&"
        alt="BetterMint banner" />
@@ -73,7 +69,7 @@ Most of what I build is designed to be **used by a community**: challenge binari
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=BetterMint&show_icons=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BetterMint&show_icons=true&hide_border=true&theme=transparent"
     alt="BetterMint GitHub Stats"
     height="160"
   />
@@ -89,7 +85,7 @@ Most of what I build is designed to be **used by a community**: challenge binari
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetterMint&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BetterMint&layout=compact&hide_border=true&theme=transparent"
     alt="BetterMint Top Languages"
     height="160"
   />
