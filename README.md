@@ -49,7 +49,7 @@ Most of what I build is designed to be **used by a community**: challenge binari
 - 👥 **Staff & contributor roles** – help build events, tooling, and resources
 
 🔗 **Join BetterMint:**  
-[🌿 BetterMint Discord](https://discord.gg/bettermint-development-1098267851732815932)
+[🌿 BetterMint Discord](https://discord.gg/basic)
 
 ---
 
