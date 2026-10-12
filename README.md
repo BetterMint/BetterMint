@@ -48,9 +48,6 @@ Most of what I build is designed to be **used by a community**: challenge binari
 - 🏷️ **“MINT!” tag** – rep the community across platforms  
 - 👥 **Staff & contributor roles** – help build events, tooling, and resources
 
-🔗 **Join BetterMint:**  
-[🌿 BetterMint Discord](https://discord.gg/basic)
-
 ---
 
 ## 🛠️ Tech Stack & Focus
